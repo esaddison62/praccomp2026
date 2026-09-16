@@ -38,3 +38,22 @@ Ordered
 http://brewerlab.net - automatic
 
 [Brewer Lab](http://brewerlab.net)
+
+
+## IMAGES
+
+![Brewer Lab Photo - a whole lot of words](https://www.blakesleelab.com/uploads/8/6/9/9/86993748/published/blakesleelab.jpg?1638480439)
+
+
+## BACKLASH ESCAPES
+
+\*Literal asterasks\*
+
+## FENCED CODE BLOCKS
+
+'''
+
+echo "Hello"
+'''
+
+
