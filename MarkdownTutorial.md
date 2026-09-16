@@ -72,7 +72,7 @@ x <- 4^2
 
 ## TASK LISTS
 
-- [] this is an incomplete task
+- [ ] this is an incomplete task
 - [x] this is a complete task
 - [x] @mentions, #refs, [links](), **formatting**, <del>tags</del> and ~more formatting~
 - [x] list syntax required (ordered or unordered)
@@ -83,4 +83,9 @@ First header | Second header
 ------------ | -------------
 Content column 1 row 1 | Content column 2 row 1
 Content column 1 row 2 | Content column 2 row 2
+
+## EMOJI
+
+:spider:
+:bat:
 
