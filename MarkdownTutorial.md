@@ -12,7 +12,7 @@
 
 _This text will be italic_
 
-**This text will be bold##
+**This text will be bold**
 
 _This text will be bold_
 
